@@ -1,0 +1,21 @@
+/* Set background color for the whole page */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style all paragraphs */
+p {
+    color: #333;
+    font-size: 18px;
+}
+
+/* Style all links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
